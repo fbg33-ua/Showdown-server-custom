@@ -2,7 +2,7 @@
   "name": "Showdown-server-custom",
   "description": "The server for the Pokémon Showdown battle simulator",
   "version": "0.11.10",
-  "main": "Showdown-server-custom.js",
+  "main": "dist/sim/index.js",
   "types": "dist/sim/index.d.ts",
   "dependencies": {
     "esbuild": "^0.16.10",
