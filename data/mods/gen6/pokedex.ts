@@ -41,7 +41,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	noctowl: {
 		inherit: true,
-		baseStats: { hp: 100, atk: 50, def: 50, spa: 76, spd: 96, spe: 70 },
+		baseStats: { hp: 110, atk: 50, def: 65, spa: 95, spd: 110, spe: 80 },
 	},
 	ariados: {
 		inherit: true,
