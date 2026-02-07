@@ -92,7 +92,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	leechlife: {
 		inherit: true,
-		basePower: 20,
+		basePower: 80,
 		pp: 15,
 	},
 	mefirst: {
