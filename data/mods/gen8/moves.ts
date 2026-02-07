@@ -469,7 +469,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	roost: {
 		inherit: true,
-		pp: 10,
+		pp: 5,
 	},
 	searingshot: {
 		inherit: true,
