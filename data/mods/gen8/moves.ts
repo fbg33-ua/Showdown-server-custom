@@ -376,7 +376,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	milkdrink: {
 		inherit: true,
-		pp: 10,
+		pp: 5,
 	},
 	mindblown: {
 		inherit: true,
