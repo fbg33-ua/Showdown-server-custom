@@ -4950,7 +4950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		types: ["Fire", "Fighting"],
 		genderRatio: { M: 0.875, F: 0.125 },
 		baseStats: { hp: 80, atk: 160, def: 80, spa: 135, spd: 80, spe: 120 },
-		abilities: { 0: "Tangled Feet" },
+		abilities: { 0: "Natural Cure" },
 		heightm: 1.9,
 		weightkg: 52,
 		color: "Red",
