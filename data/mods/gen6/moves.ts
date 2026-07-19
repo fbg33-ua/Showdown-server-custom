@@ -13,7 +13,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	darkvoid: {
 		inherit: true,
-		accuracy: 80,
+		accuracy: 50,
 		onTry() {},
 	},
 	destinybond: {
