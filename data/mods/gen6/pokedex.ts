@@ -57,7 +57,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	corsola: {
 		inherit: true,
-		baseStats: { hp: 55, atk: 55, def: 85, spa: 65, spd: 85, spe: 35 },
+		baseStats: { hp: 65, atk: 55, def: 115, spa: 65, spd: 115, spe: 35 },
 	},
 	mantine: {
 		inherit: true,
@@ -114,11 +114,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
 	lunatone: {
 		inherit: true,
-		baseStats: { hp: 70, atk: 55, def: 65, spa: 95, spd: 85, spe: 70 },
+		baseStats: { hp: 70, atk: 55, def: 65, spa: 110, spd: 100, spe: 70 },
 	},
 	solrock: {
 		inherit: true,
-		baseStats: { hp: 70, atk: 95, def: 85, spa: 55, spd: 65, spe: 70 },
+		baseStats: { hp: 70, atk: 110, def: 100, spa: 55, spd: 65, spe: 70 },
 	},
 	castform: {
 		inherit: true,
