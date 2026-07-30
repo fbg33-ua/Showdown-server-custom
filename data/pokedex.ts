@@ -6130,7 +6130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseSpecies: "Altaria",
 		forme: "Mega",
 		types: ["Dragon", "Fairy"],
-		baseStats: { hp: 75, atk: 110, def: 110, spa: 110, spd: 105, spe: 80 },
+		baseStats: { hp: 85, atk: 115, def: 110, spa: 115, spd: 105, spe: 70 },
 		abilities: { 0: "Pixilate" },
 		heightm: 1.5,
 		weightkg: 20.6,
